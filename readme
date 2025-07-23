@@ -29,7 +29,7 @@ This supervised machine learning project trains models to classify patients base
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle - Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle - Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-datasets)
 - **Samples**: 768
 - **Features**:
   - Pregnancies
